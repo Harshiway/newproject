@@ -1,0 +1,23 @@
+div {
+    height: 100px;
+    background-color: blue;
+    
+}
+p {
+    height: 100px;
+    align-items: center;
+}
+button {
+    
+}
+
+h1{
+    color: red;
+    text-align: center;
+    background-color: yellow;
+}
+
+h4 {
+    text-align: right;
+    height: 5px;
+}
